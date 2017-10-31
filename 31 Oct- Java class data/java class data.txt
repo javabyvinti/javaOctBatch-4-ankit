@@ -1,0 +1,17 @@
+open source --> freely install, src code, modify, re-distribute
+
+platform independent --> bytecode
+
+src code (.java) --> java compiler -->(.class) bytecode-->
+ jvm(java virtual machine) --> machine code 
+
+
+
+jdk --> java development kit (platform dependent)
+jre --> java runtime enviornment(platform dependent)
+jvm --> (platform dependent)
+
+
+Jdk download:
+
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
