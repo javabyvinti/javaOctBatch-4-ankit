@@ -1,0 +1,71 @@
+java basic-->
+
+--> identifers --> name used to identify anything in your program.
+		   name of variable, class name, constant name, method name
+
+	Rules:
+	--> cannot be start with no.
+	--> can start with letters or underscore or $
+	--> it can be of any length.	
+	--> keyword cannot be used as identifier
+
+
+	int userChoice = 10;
+	int int = 90;
+
+value++;
+
+
+value = value + 30;
+
+
+
+--> variables
+	data_type variable_name = intialization
+
+	variable --> type and value or size
+
+
+int value1 = 0, value2 = 60;	//garbage collection
+
+	value1 = value1 + value2;
+
+	printf(value1);//60
+
+
+--> constant
+
+value is fixed and cannot be changed either compile time or runtime.
+
+final keyword
+	
+	final int value = 90;
+
+	value++;
+
+	value = 54;
+
+--> keywords
+	predefined meaning we have n no. of keywords.
+
+identiers valid?
+
+--> datatypes
+
+	--> primitive type
+	int, char, float, long, double, boolean, short, byte
+
+	--> reference type
+
+	type --> data store
+
+
+ 8 bits --> 2 power 7 and 1 bit -> sign
+
+	byte b = 128;
+
+
+
+	--> int userData
+	--> final int USERDATA;
+ 
