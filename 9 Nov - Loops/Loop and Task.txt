@@ -1,0 +1,56 @@
+Loop --> repeat n times -->
+
+--> while loop
+--> do-while 
+--> for
+
+
+3 mandatory elements:
+
+--> initialization --> starting value
+--> condition --> ending value
+--> increment or decrement
+
+
+initialization
+
+
+--> entry controlled loop
+
+while(condition)
+{
+	statements;
+	increment or decrement;
+
+}
+
+// Menu 
+
+Select any one option
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+
+userinput --> 1
+
+Enter your first value
+12
+enter your second value
+12
+
+Result  = 24
+
+show menu again
+exit only when user press 5
+
+
+
+
+
+
+
+
+
