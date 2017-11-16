@@ -1,0 +1,21 @@
+3 types of variables:
+--> instance variable (state of a class or characteristics)
+
+->outside the constructor or method or block 
+->global variables--> can be accessed from anywhere inside class unless proper access specifier is provided.
+->instance varible are initialized by default with default value acc. to type
+
+--> created per object
+
+--> static variable :
+
+memory is created only once and value is shared between all the objects
+--> created per class
+
+-> with default value
+
+--> local variable
+
+--> inside method or constructor or block
+
+--> no default value for local variables
