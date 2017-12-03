@@ -1,0 +1,42 @@
+
+Structure of anything --> what is needed --> What to do
+
+Interface --> final variables, abstract methods, no constructor
+
+Never create object of interface
+
+
+implement the structure provided by interface --> How to do
+
+class --> instance variables, constructors, methods
+
+
+class inherit interface
+
+class implements interface{}
+
+
+interface inherit interface
+
+
+type same --> class inherit other class and interface inherit other interface --> use extends keyword
+
+type different --> class inherit interface --> use implements keyword
+
+
+
+
+
+
+interface --> 
+
+Game --> jump --> walk --> attack --> run --> idle
+
+
+Mario --> use --> Game interface
+
+
+Load Runner --> use --> Game interface
+
+
+
