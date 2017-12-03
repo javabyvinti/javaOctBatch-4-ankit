@@ -1,0 +1,5 @@
+https://www.codesdope.com/practice/java-abstract-class/
+
+http://javaconceptoftheday.com/java-interview-questions-on-abstract-class/
+
+http://javaconceptoftheday.com/java-practice-coding-questions-on-abstract-classes/

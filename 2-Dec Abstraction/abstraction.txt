@@ -1,0 +1,11 @@
+Abstraction: hidding all the irrelevant information from user and showing only required or necessary things. eg--> ATM machine, TV, Car, etc
+
+Abstract class
+
+abstract keyword --> class and method
+
+--> abstract --> incomplete
+
+--> if a class contains any abstract method then the class must be declared as abstract also.
+
+we cannot instantiate an abstract class
