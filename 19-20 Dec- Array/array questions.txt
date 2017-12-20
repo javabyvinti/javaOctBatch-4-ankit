@@ -1,0 +1,35 @@
+
+Q1. WAP to accept 5 values from user and find the duplicate values in array.
+eg --> 
+
+43
+76
+32
+43
+98
+--> Duplicate value = 43
+
+Q2. WAP to accept 5 values from user and copy that value in another array and print both arrays.
+
+Q3. WAP to accept 5 values from user and find minimum value.
+
+Q4. WAP to accept 5 values and find duplicate and remove that duplicate value from array.
+
+eg -->
+
+43
+76
+32
+43
+98
+
+--> Duplicate Found and Removed = 43
+
+--> Current Array is = 
+
+43
+76
+32
+98
+
+Q5. WAP to print multiplication of 2D array.
