@@ -1,0 +1,29 @@
+File Handling -->
+
+Input/Output
+
+client - server // network--> byte
+local system -->byte/char
+file --> byte/char
+
+
+flow of data/ Flow of Stream(Bytes)
+
+bytes				txt files
+
+--> images			char
+--> mp3
+--> mp4
+--> ttf
+--> gif, jpeg, png,etc
+--> wav, aif, etc
+
+--> Create --> Read or Write --> pass to location
+
+
+File Handling
+--> Create a file --> File class --> 
+
+
+--> Write data in the file
+--> Read data from the file
