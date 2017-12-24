@@ -1,0 +1,45 @@
+Project work-->
+
+
+--> User Menu
+
+--> Choose any 1 option
+Press 1 To Register
+Press 2 For Login
+Press 3 To Exit
+
+
+--> if user presses 1-->
+--> Enter your name 
+Ram kumar
+--> Enter your password
+1234ram
+
+--> Choose any one subject
+-->Press 1 for C
+-->Press 2 for C++
+-->Press 3 for Java
+
+--> if user press 1
+--> Display question and option acc to language selected
+
+Q1-> Who develop C Language?
+1. Dennis Ritchie
+2. James Gosling
+3. Andy Rubin
+4. Jet Brains
+if user press 1 then check that is it true or not
+if true-->
+Correct
+Q2-> What is the use of header files?
+1.
+2.
+3.
+4.
+if wrong ans is selected
+
+Total Questions: 5
+
+Correct Answer:  3
+
+Choose between 1-4
